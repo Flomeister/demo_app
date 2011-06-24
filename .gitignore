@@ -1,0 +1,9 @@
+log/*.log
+tmp/*
+tmp/**/*
+doc7api
+doc/api
+db/*.sqlite3
+*~
+.DS_Store
+
